@@ -1,0 +1,29 @@
+{
+  "name": "restaurant-online-reservation-system-g13",
+  "version": "1.0.0",
+  "description": "The project is a backend application that exposes a documented RESTful API for an online restaurant reservation system. It maintains information about restaurant tables, opening hours and available time slots, customer reservations, and the daily schedule used by restaurant staff.  Swagger/OpenAPI.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YiYang567/Restaurant-Online-Reservation-System-G13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/YiYang567/Restaurant-Online-Reservation-System-G13/issues"
+  },
+  "homepage": "https://github.com/YiYang567/Restaurant-Online-Reservation-System-G13#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}
