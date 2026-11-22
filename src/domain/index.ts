@@ -6,3 +6,6 @@ export * from "./time-slot.js";
 export * from "./reservation-status.js";
 export * from "./reservation-code.js";
 export * from "./reservation.js";
+export * from "./allocation/table-allocation-strategy.js";
+export * from "./allocation/best-fit-strategy.js";
+export * from "./reservation-policy.js";
